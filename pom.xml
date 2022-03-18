@@ -61,8 +61,8 @@
 	    mvn org.jibx:maven-jibx-plugin:schema-codegen -->
 	    <plugin>
     		<groupId>org.jibx</groupId>
-    		<artifactId>maven-jibx-plugin</artifactId>
-                <version>1.3.1</version>
+    		<artifactId>jibx-maven-plugin</artifactId>
+                <version>1.3.3</version>
     		<executions>
         		<execution>
         		<id>generate-java-code-from-schema</id>
